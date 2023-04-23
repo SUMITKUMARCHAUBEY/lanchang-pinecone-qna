@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.navigation {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+  height: 110vh;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.navigation a.active {
+  background-color: #0DCAF0;
+  
+}
+
+.navigation a:hover:not(.active) {
+  background-color: #555;
+  color: white;}
