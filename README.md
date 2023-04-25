@@ -3,7 +3,7 @@ This is a mern-stack project with
 -backend in te "server" directory
 -and the front-end in the "my-app" directory.
 
-This project is a demonstration of how AI acn be used to make API's, in the form of which it can be delevered to the public.
+This project is a demonstration of how AI can be used to make API's, in the form of which it can be delevered to the public.
 
 To setup this project anywhere you will have to make a .env file and store the mongoDB database link and the OpenAi API key as well as the Pinecone API key  and the enviornment key.
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
